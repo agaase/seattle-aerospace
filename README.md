@@ -28,7 +28,7 @@ I could understand following things -
 There is an interesting relationship in terms of the actual number of companies that were doing one particular activity or involved with one particular object as well as at the intersect of those two which actually defines the business the company is in.
 
 ***With this I wanted to highlight the opportunities across segments by showing where there is more concentration of business and where its still vacant and could be explored***.
-For example there could be a case where there are lot of companies in Manufacturing but few deal with avionics manufacturing. As such it is important to show the count of industries available across different variables.
+For example there could be a case where there are lot of companies in Manufacturing but few deal specifically with avionics/ But, there can be lot of companies involved with design of avionics. This is an opportunity to explore as those design companies will be looking to outsource the process to build on their design.  As such it is important to show the count of industries available across different domains.
 
 As such with I wanted to highlight some important things with the design
 1. Give a sense of how many companies were involved in an activity.
