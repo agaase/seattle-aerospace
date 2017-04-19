@@ -6,8 +6,9 @@ This project visualizes the kinds of companies that comprise Seattle's aerospace
 This is a normal web project. If you clone this repo to a server directory, you can open your localhost to see it working.
 The ** DEMO ** can also be seen at https://agaase.github.io/seattle-aerospace/
 
-## Design 
+## Design Approach
 
+### Data Analysis
 The first step as part of this visualization itself was to understand the data itself. I analysed the data by importing it in python ([see python notebook here](https://github.com/agaase/seattle-aerospace/blob/master/analysis.ipynb)) and looked at the fields as well as some basic analysis to understand the basic quantitative relationship. 
 I could understand following things - 
 
@@ -20,8 +21,9 @@ I could understand following things -
    * Logistics
    * People
    * Parts of flight
-  
-Also the there was an interesting relationship in terms of the actual number of companies that were doing one particular activity or involved with one particular object as well as at the intersect of those two which actually defines the business the company is in.
+    
+### Insights
+There is an interesting relationship in terms of the actual number of companies that were doing one particular activity or involved with one particular object as well as at the intersect of those two which actually defines the business the company is in.
 
 ***With this I wanted to highlight the opportunities across segments by showing where there is more concentration of business and where its still vacant and could be explored***.
 For example there could be a case where there are lot of companies in Manufacturing but few deal with avionics manufacturing. As such it is important to show the count of industries available across different variables.
