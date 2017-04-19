@@ -4,7 +4,7 @@ This project visualizes the kinds of companies that comprise Seattle's aerospace
 
 ## Code and Installation
 This is a normal web project. If you clone this repo to a server directory, you can open your localhost to see it working.
-The ** DEMO ** can also be seen at https://agaase.github.io/seattle-aerospace/
+The **DEMO** can also be seen at https://agaase.github.io/seattle-aerospace/
 
 ## Design Approach
 
